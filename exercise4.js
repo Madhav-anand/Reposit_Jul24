@@ -26,3 +26,4 @@ const add5 = (num) => num + 5;
 compose(add1, add5)(10)
 
 //What are the two elements of a pure function?
+//edit made here
